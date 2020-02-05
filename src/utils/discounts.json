@@ -1,0 +1,18 @@
+{
+  "discounts": [
+    {
+      "active": true,
+      "type": "Bulk",
+      "minProduct": 3,
+      "mount": 1,
+      "products": ["TSHIRT"]
+    },
+    {
+      "active": true,
+      "type": "Unit",
+      "minProduct": 2,
+      "mount": 1,
+      "products": ["VOUCHER"]
+    }
+  ]
+}
