@@ -4,7 +4,7 @@ Challenge NoviCap
 
 # Para bajar las dependencias ejecutar
 
-npm install para bajar dependencias
+npm install
 
 # Para correr los Test
 
